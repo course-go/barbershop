@@ -25,8 +25,7 @@ The problem then has the following rules:
 
 ### Bonus
 
-- Implement support for multiple barbers.
-    - That is M barbers with M barber chairs.
+You can also gain up to 2 bonus points for implementing support for multiple barbers. I.e. M barbers with M barber chairs.
 
 ## Requirements
 
