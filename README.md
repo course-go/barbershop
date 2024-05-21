@@ -4,13 +4,13 @@ Barbershop is an implementation of the Sleeping barber problem. This project ser
 
 ## Assignment
 
-Throughout this homework assignment you will implement a solution for the [Sleeping barber problem](https://en.wikipedia.org/wiki/Sleeping_barber_problem). This problem was proposed by [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_Dijkstra) in his work [Cooperating sequential processes](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD01xx/EWD123.html).
+Throughout this homework assignment you will implement a solution of the [Sleeping barber problem](https://en.wikipedia.org/wiki/Sleeping_barber_problem). This problem was proposed by [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_Dijkstra) in his work [Cooperating sequential processes](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD01xx/EWD123.html).
 
 ### Specification
 
 The problem is specified as follows:
 
-Picture a barbershop that has a single barber, a single barber chair on which the barber gives cuts, and a **N** chair in the waiting room.
+Picture a barbershop that has a single barber, a single barber chair on which the barber gives cuts, and a **N** chairs in the waiting room.
 
 ![Barbershop diagram](assets/barbershop.svg)
 
@@ -30,7 +30,7 @@ The problem then has the following rules:
 
 ## Requirements
 
-The application has to demonstate the functionallity of the barbershop, so a short demo should be created. The code must have no race conditions or possible deadlocks. Stress is also given on writting idiomatic code.
+The application has to demonstate the functionallity of the barbershop as specified by the assignment. A short demo should also be created. The code must have no race conditions or possible deadlocks. Lastly, stress is given on writting idiomatic code.
 
 ## Motivation
 
